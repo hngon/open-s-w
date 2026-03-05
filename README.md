@@ -1,1 +1,1 @@
-# open-s-w
+# open-sw
